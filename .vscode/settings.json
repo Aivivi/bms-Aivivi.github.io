@@ -1,0 +1,16 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "PowerShell -NoProfile": {
+          "source": "PowerShell",
+          "args": [
+            "-NoProfile"
+          ]
+        },
+        "Git-Bash": {
+          "path": "D:\\Program Files\\Git\\bin\\bash.exe",
+          "args": []
+        }
+      },
+    "terminal.integrated.defaultProfile.windows": "Git-Bash", //终端默认启用配置
+
+}
